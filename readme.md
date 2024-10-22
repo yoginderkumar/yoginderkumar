@@ -11,7 +11,7 @@ Hi there! I'm Yoginder, a passionate software developer with over 4 years of exp
 
 ## 💼 Professional Experience
 
-### Software Developer @ CashBook (Jan 2022 - August 2024)
+### Software Developer @ CashBook (Jan 2022 - May 2024)
 
 - Led the development of web projects as a software developer.
 - Engineered multiple features using React, resulting in an 8x growth in user sessions (from 2k to 16k).
