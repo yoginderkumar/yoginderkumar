@@ -2,7 +2,8 @@
 
 ## 👋 Introduction
 
-Hi there! I'm Yoginder, a passionate software developer with over 4 years of experience in crafting dynamic web and mobile applications using cutting-edge technologies like React, Angular, React Native, and Next.js. I thrive on challenges that push boundaries and excel at translating concepts into seamless user experiences.
+Hi there! I'm Yoginder, Results-driven Software Developer with 5+ years of experience in frontend development, specializing in React and
+React Native applications. Expert in modern JavaScript frameworks, agile methodologies, and other technologies.
 
 ## 🚀 Skills
 
@@ -10,6 +11,16 @@ Hi there! I'm Yoginder, a passionate software developer with over 4 years of exp
 - **Technologies & Tools:** React.js, React Native, Angular, Node.js, Express.js, Next.js, Firebase, MongoDB, Redux, NX, Netlify, Nunjucks, Git
 
 ## 💼 Professional Experience
+
+### Frontend Lead @ Unico Connect (May 2024 - Present)
+
+- Managing and guiding a cross-functional development team, fostering collaboration and maintaining project momentum.
+- Scaling the existing system to align with evolving project requirements, ensuring robust performance and reliability.
+- Enhancing user experience by adding responsiveness, enabling seamless interaction across tablets and mobile devices.
+- Playing a crucial role in refining the project’s architecture, optimizing the development process, and reducing development time by 3x.
+
+Through these efforts, I am ensuring that our product meets high standards of quality, efficiency, and client satisfaction, contributing significantly to the project’s success.
+
 
 ### Software Developer @ CashBook (Jan 2022 - May 2024)
 
